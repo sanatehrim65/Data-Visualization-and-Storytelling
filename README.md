@@ -42,27 +42,6 @@ Insight-based visualizations with explanations
 
 Key takeaways and recommendations
 
-📤 Files Included in This Repository
-
-File Name
-
-Description
-
-sample_-_superstore.xls
-
-Source dataset
-
-superstore_dashboard.twbx
-
-Tableau workbook with all visualizations
-
-visual_report.pdf
-
-Exported visual story (PDF) for final submission
-
-README.md
-
-Documentation and task summary
 
 🔍 Key Insights
 
